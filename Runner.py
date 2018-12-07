@@ -2,6 +2,8 @@ import random
 
 def file_reader():
 
+    open('List.txt')
+
     return 0
 
 def stacker():
